@@ -8,5 +8,6 @@ public class Test222 {
         System.out.println(Arrays.stream(a).sum());
         System.out.println("hotfx修改");
         System.out.println("master修改");
+        System.out.println("hotfx修改2");
     }
 }
